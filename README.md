@@ -4,8 +4,8 @@ This project is meant for my portfolio project for class. It is incomplete and m
 
 ## Requirements
 
-Docker and docker compose
-Insomnia (optional, mainly to GET/POST request)
+* Docker and docker compose
+* Insomnia (optional, mainly to GET/POST request)
 
 ## Installation
 
